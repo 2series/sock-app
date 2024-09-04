@@ -12,7 +12,7 @@ Welcome to the Sock Tracker App! This web application helps users manage and org
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/sock-tracker-app.git
+   git clone https://github.com/2series/sock-app
    ```
 2. Install dependencies:
    ```
